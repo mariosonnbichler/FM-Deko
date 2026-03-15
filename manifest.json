@@ -1,0 +1,25 @@
+{
+  "name": "FM Deko & Accessoires",
+  "short_name": "FM Deko",
+  "description": "Deko & Accessoires Bestellsystem",
+  "start_url": "/FM-Deko/",
+  "display": "standalone",
+  "background_color": "#FDFAF7",
+  "theme_color": "#2D5016",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "scope": "/FM-Deko/"
+}
